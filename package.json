@@ -1,0 +1,24 @@
+{
+  "name": "my-contacts-backend-api",
+  "version": "1.0.0",
+  "description": "this is  express project for my contacts backend api ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamayoonDEV/nodejsproject.git"
+  },
+  "author": "hamayoon khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamayoonDEV/nodejsproject/issues"
+  },
+  "homepage": "https://github.com/HamayoonDEV/nodejsproject#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
